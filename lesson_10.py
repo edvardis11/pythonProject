@@ -30,3 +30,6 @@ url = "https://random-d.uk/api/random"
 pic_url = requests.get(url).json()['url']
 for i in range (1,100):
     webbrowser.open(pic_url)
+
+
+print("Hello, word саня миняет мир")
