@@ -32,4 +32,4 @@ for i in range (1,100):
     webbrowser.open(pic_url)
 
 
-print("Hello, word саня миняет мир")
+print("Hello, word саня миняет мир , в мире")
