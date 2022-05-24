@@ -33,3 +33,5 @@ for i in range (1,100):
 
 
 print("Hello, word саня миняет мир , в мире")
+
+print("Второе изменение")
